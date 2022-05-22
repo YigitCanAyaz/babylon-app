@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/babylon-app/static/css/main.bf9de623.css",
+    "main.js": "/babylon-app/static/js/main.9b1db103.js",
+    "static/js/787.d5ec96eb.chunk.js": "/babylon-app/static/js/787.d5ec96eb.chunk.js",
+    "index.html": "/babylon-app/index.html",
+    "main.bf9de623.css.map": "/babylon-app/static/css/main.bf9de623.css.map",
+    "main.9b1db103.js.map": "/babylon-app/static/js/main.9b1db103.js.map",
+    "787.d5ec96eb.chunk.js.map": "/babylon-app/static/js/787.d5ec96eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9de623.css",
+    "static/js/main.9b1db103.js"
+  ]
+}
